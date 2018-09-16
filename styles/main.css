@@ -8,6 +8,10 @@
 	text-align: center;
 }
 
-.container input {
+#result-speed-slider {
+	width: 100%;
+}
+
+.container #speed-slider {
 	width: 200px;
 }
