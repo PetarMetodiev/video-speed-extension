@@ -1,0 +1,13 @@
+.container {
+	display: flex;
+	align-items: center;
+}
+
+.container #speed-slider-value {
+	width: 30px;
+	text-align: center;
+}
+
+.container input {
+	width: 200px;
+}
