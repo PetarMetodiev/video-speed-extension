@@ -4,11 +4,11 @@
 }
 
 .container #speed-slider-value {
-	width: 30px;
+	width: 35px;
 	text-align: center;
 }
 
-#result-speed-slider {
+#result-speed-number {
 	width: 100%;
 }
 
